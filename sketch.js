@@ -9,4 +9,7 @@ function draw() {
 if (mouseX < 300) {
   ellipse(200, 200, 100, 100);
 }
+else {
+  ellipse(400,200,100,100);
+}
 }
